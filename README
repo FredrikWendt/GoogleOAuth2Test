@@ -1,0 +1,8 @@
+This is a proof of concept throw-away web app I used to get familiar with
+Google's experimental OAuth2 API.
+
+More info at
+http://code.google.com/apis/accounts/docs/OAuth2WebServer.html
+
+Similar to 
+http://code.google.com/apis/accounts/docs/OAuth2Login.html
